@@ -1,5 +1,5 @@
-# Project Name 
-Bouncing Ballz
+# Bouncing Ballz
+
 
 1. Clone the repository
     ```sh
